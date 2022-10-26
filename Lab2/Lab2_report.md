@@ -5,8 +5,8 @@ Year: 2022/2023
 Group: K4112c
 Author: Nguyen Manh Trung
 Lab: Lab2
-Date of create: 24.09.2022
-Date of finished: 31.09.2022
+Date of create: 24.10.2022
+Date of finished: 26.10.2022
 
 Creating a deployment with manifest name webserver.yaml.: kubectl apply -f webserver.yaml
 In this file, define the environment values with keys: REACT_APP_USERNAME and REACT_APP_COMPANY_NAME. This deployment has 3 replicasets.
