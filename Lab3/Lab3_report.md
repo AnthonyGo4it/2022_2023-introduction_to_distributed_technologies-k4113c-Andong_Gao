@@ -8,3 +8,4 @@ Lab: Lab1
 Date of create: 05.11.2022
 Date of finished: 06.11.2022
 
+g
