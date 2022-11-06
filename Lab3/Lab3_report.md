@@ -4,7 +4,7 @@ Course: [Introduction to distributed technologies](https://github.com/itmo-ict-f
 Year: 2022/2023
 Group: K4113c
 Author: Gao, Andong
-Lab: Lab1
+Lab: Lab3
 Date of create: 05.11.2022
 Date of finished: 06.11.2022
 
