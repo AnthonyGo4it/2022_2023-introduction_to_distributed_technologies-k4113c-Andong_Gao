@@ -34,6 +34,9 @@ Ceate service for deployment: kubectl apply -f svc.yaml
 Forward it to port. Result in Pic 2: kubectl port-forward service/web-service 3000:3000
 ![Image text](https://github.com/AnthonyGo4it/2022_2023-introduction_to_distributed_technologies-k4113c-Andong_Gao/blob/main/Lab4/Screen%20Shot%202022-11-07%20at%2001.45.34.png)
 
+![Image text](https://github.com/AnthonyGo4it/2022_2023-introduction_to_distributed_technologies-k4113c-Andong_Gao/blob/main/Lab4/Screen%20Shot%202022-11-07%20at%2003.29.56.png)
+
+
 Ping check from this pod to that pod using kubectl exec: kubectl exec -it webserver -- ping 10.244.102.2
 Successfully ping from pod to other pod
 
