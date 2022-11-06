@@ -8,4 +8,8 @@ Lab: Lab1
 Date of create: 05.11.2022
 Date of finished: 06.11.2022
 
-g
+
+minikube start: 
+https://github.com/AnthonyGo4it/2022_2023-introduction_to_distributed_technologies-k4113c-Andong_Gao/blob/main/Lab3/Screen%20Shot%202022-11-07%20at%2000.08.46.png![image](https://user-images.githubusercontent.com/115359561/200182099-b0159c89-c0e2-4a8b-b3f4-218286706a2c.png)
+
+
