@@ -10,6 +10,5 @@ Date of finished: 06.11.2022
 
 
 minikube start: 
-![Image text](https://github.com/AnthonyGo4it/2022_2023-introduction_to_distributed_technologies-k4113c-Andong_Gao/blob/main/Lab3/Screen%20Shot%202022-11-07%20at%2000.08.46.png)![image](https://user-images.githubusercontent.com/115359561/200182140-440fda7e-286c-4e94-bd49-883fc1b50c5f.png)
-
+![Image text](https://github.com/AnthonyGo4it/2022_2023-introduction_to_distributed_technologies-k4113c-Andong_Gao/blob/main/Lab3/Screen%20Shot%202022-11-07%20at%2000.08.46.png)
 
