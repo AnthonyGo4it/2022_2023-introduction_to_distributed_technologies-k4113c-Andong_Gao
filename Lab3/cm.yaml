@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: cm-env
-data:
-  REACT_APP_USERNAME: "Nguyen Manh Trung" 
-  REACT_APP_COMPANY_NAME: "NMT_Lab3" 
