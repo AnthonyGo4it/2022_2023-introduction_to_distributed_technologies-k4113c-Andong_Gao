@@ -2,8 +2,8 @@ University: ITMO University
 Faculty: FICT
 Course: Introduction to distributed technologies
 Year: 2022/2023
-Group: K4112c
-Author: Nguyen Manh Trung
+Group: K4113c
+Author: Gao andong
 Lab: Lab2
 Date of create: 24.10.2022
 Date of finished: 26.10.2022
